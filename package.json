@@ -1,0 +1,12 @@
+{
+  "name": "deployer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test-cov": "istanbul cover _mocha -- -R spec"
+  },
+  "author": "",
+  "license": "ISC"
+}
